@@ -1,0 +1,5 @@
+touch home/demo.txt
+cd home
+ls -lt
+chmod 764 demo.txt
+ls -lt
